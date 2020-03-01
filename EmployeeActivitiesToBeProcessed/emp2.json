@@ -1,0 +1,15 @@
+{
+  "employee_id": 18,
+  "activities": [
+    {
+      "name": "login",
+      "time": 1581512400000,
+      "duration": 1
+    },
+    {
+      "name": "logout",
+      "time":1583067600000,
+      "duration": 4
+    }
+  ]
+}
