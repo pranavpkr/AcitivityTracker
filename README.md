@@ -1,4 +1,6 @@
+Java Spring Boot application demonstrating CRUD application implemented with Hibernate and PostgresSQL Database.
 
+Steps to run
 1.Postgresql table created by hibernate
 	CREATE TABLE emp_activities (
 		id uuid DEFAULT uuid_generate_v4 () PRIMARY KEY ,
